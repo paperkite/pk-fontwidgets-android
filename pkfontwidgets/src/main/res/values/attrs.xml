@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="customFont" format="string" />
+    <declare-styleable name="PKTextView">
+        <attr name="customFont" />
+    </declare-styleable>
+
+    <declare-styleable name="PKButton">
+        <attr name="customFont" />
+    </declare-styleable>
+
+    <declare-styleable name="PKRadioButton">
+        <attr name="customFont" />
+    </declare-styleable>
+
+    <declare-styleable name="PKEditText">
+        <attr name="customFont" />
+    </declare-styleable>
+
+    <declare-styleable name="PKCheckBox">
+        <attr name="customFont" />
+    </declare-styleable>
+
+
+</resources>
